@@ -1,0 +1,88 @@
+.header{
+  font-family:Helvetica, sans-serif;
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+  background-image:url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  text-align: center;
+  margin-top:0;
+  margin-bottom:30px;
+}
+
+.subheader{
+  font-family:helvetica, sans-serif;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  clear: right;
+  display: block;
+
+}
+
+#brushes{
+  background-color: mediumspringgreen;
+  margin-top:5px;
+
+}
+
+#frames{
+  background-color:lightcoral;
+}
+
+#paint{
+  background-color:skyblue;
+}
+
+.inline{
+  font-family:helvetica;
+  font-weight:bold;
+  color:blue;
+}
+
+p, h3 {
+  font-family:helvetica, sans-serif;
+  clear:center;
+}
+
+nav{
+  font-size:18px;
+  text-align: center;
+}
+
+html{
+  background-color: rgba(243, 178, 33, 0.08);
+}
+
+mark{
+  background-color:rgb(80, 99, 69);
+  color:rgb(232, 232, 232);
+  font-family:'Sedgwick Ave', cursive;
+  padding:1.5px;
+  margin-botton:2px;
+  text-decoration:none;
+
+}
+
+.para{
+    margin-top:20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width:12em;
+}
+h3{
+  margin-top:20px;
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+  width:8em;
+  padding-top: 50px;
+}
+
+img.center{
+  display:block;
+  height:300px;
+  weight:50px;
+  float:right;
+  margin-bottom:10px;
+}
